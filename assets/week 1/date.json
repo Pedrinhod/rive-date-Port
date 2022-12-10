@@ -1,0 +1,32 @@
+{
+	"storyName": "date",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "date",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"date",
+			"river",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Date",
+	"hiddenUntilUnlocked": false
+}
